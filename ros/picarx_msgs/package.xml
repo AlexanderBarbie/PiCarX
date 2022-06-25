@@ -4,7 +4,7 @@
     <version>0.0.0</version>
     <description>ROS emulator for the SunFounder Clutch Gear</description>
 
-    <maintainer email="abarbie@geomar.de">Alexander Barbie</maintainer>
+    <maintainer email="alexanderbarbie@gmx.de">Alexander Barbie</maintainer>
 
     <license>Apache 2.0</license>
 
@@ -12,4 +12,5 @@
     <depend>message_generation</depend>
     <depend>message_runtime</depend>
     <depend>std_msgs</depend>
+    <depend>arches_msgs</depend>
 </package>
